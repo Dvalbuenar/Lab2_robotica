@@ -1,1 +1,2 @@
-# Lab2_robotica
+# Laboratorio 2 de Robótica 
+  ## Hola
