@@ -17,7 +17,7 @@
 
   
   ## Explicación sobre niveles de velocidad
-
+  La velocidad con la que opera el manipulador, se controla de manera manual en el 
   
   ## Descripción de las funcionalidades de RoboDK
 
