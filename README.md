@@ -56,16 +56,17 @@ Nos brinda diferentes herramientas que pueden ser muy útiles para la aplicació
 Además, podremos hacer uso dentro del software de probar las simulaciones bajo ciertas condiciones virtuales, con el fin de comprobar posibles colisiones, precisión, seguridad, y diferentes parámetros importantes previos a un desarrollo físico, e incluso integrar sensores, visión artificial, cámaras, entre otros, para representar escenarios cada vez más realistas.
 
 ## Comunicación con el RoboDK
+En primera instancia, debemos cambiar en el pendant la llave para seleccionar la opción de "Remote". Luego debemos entrar en la opción de conectar en el RoboDK y pulsar la opción "Conectar Robot", como se ve en la imagen:
+![image](https://github.com/user-attachments/assets/89d70664-90e1-4089-858f-7a533b62259c)
+
+En la ventana que nos aparece, con los recuadros de la dirección IP del robot, puerto del Robot, y demás. Debemos asignar la dirección y puerto del robot, comprobamos con un ping para confirmar que es posible realizar la conexión. Pulsamos el botón de "Conectar", y nos debe aparecer en verde el estado de la conexión con "Ready".
+Finalmente, para ejecutar el programa de la trayectoria polar, hacemos click derecho en el archivo .py, y seleccionamos "Ejecutar en el robot". De esta manera ya el manipulador iniciará la trayectoria programada.
+
+
   
   ## Análisis comparativo entre RoboDK y RobotStudio
-  | **Item** | **RoboDK** | **Robot Studio** |
-  |:---------|:----------------|:----------|
-  | **Carga máxima** | buenas | o |
-  | **Alcance** | buenas | o |
-  | **Grados de libertad** | buenas | o |
-  | **Velocidad** | buenas | o |
-  | **Aplicaciones** | buenas | o |
-  | **POSE Accuracy (mm)** | buenas | o |
+![image](https://github.com/user-attachments/assets/805545be-1a80-48bb-a1ef-fc2e0b5a1b67)
+
   
 
 
