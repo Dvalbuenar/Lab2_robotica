@@ -100,6 +100,7 @@ https://github.com/user-attachments/assets/52ac481b-d20e-45df-8a98-4e02ce0a7d2a
 
 ### Implementación manipulador Motoman MH6 -  Sala CAM
 
+https://github.com/user-attachments/assets/04346322-55e4-4e54-94a4-a837adaa0cbe
 
 ## Referencias.
 + [Documento con las especificaciones técnicas del Manipulador Motoman MH6.](https://pdf.directindustry.com/pdf/motoman/motoman-mh6-series-robots/14474-97220-_2.html)
