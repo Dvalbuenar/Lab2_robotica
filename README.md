@@ -96,6 +96,12 @@ En el presente en enlace se encuentra el [código de la trayectoria](programs/Li
 
 ### Simulación RoboDK
 
+https://github.com/user-attachments/assets/52ac481b-d20e-45df-8a98-4e02ce0a7d2a
 
 ### Implementación manipulador Motoman MH6 -  Sala CAM
 
+
+## Referencias.
++ [Documento con las especificaciones técnicas del Manipulador Motoman MH6.](https://pdf.directindustry.com/pdf/motoman/motoman-mh6-series-robots/14474-97220-_2.html)
++ [Documento con las especificaciones técnicas del Manipulador ABB IRB140.](https://library.e.abb.com/public/73e6655d65ab9569c1257b440052382f/IRB%20140%20datasheet.pdf)
++ [Información del Foro Knowledge Motoman sobre las posiciones de Home](https://knowledge.motoman.com/hc/en-us/articles/4415152176791-Home-Position-Second-Home-Position-and-Work-Home-Position)
